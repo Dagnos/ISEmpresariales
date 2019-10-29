@@ -35,11 +35,15 @@ cd C:\Program Files (x86)\Odoo 11.0\server
 10. Se observa los archivos de la carpeta **testmodulo1**.
     ![odoo image](images/10.png)
 
-11. Se observa el contenido del archivo ****manifest**.py**.
+11. Se observa el contenido del archivo \***\*manifest**.py\*\*.
     ![odoo image](images/11.png)
 
 12. Podemos ver el módulo creado en las aplicaciones de Odoo.
     ![odoo image](images/12.png)
 
-13. Podemos ver que el módulo **testmodulo1** está instalado conrrectamente y los cambios realizados en el archivo ****manifest**.py** si fueron realizados correctamente.
+13. Podemos ver que el módulo **testmodulo1** está instalado correctamente y los cambios realizados en el archivo \***\*manifest**.py\*\* si fueron realizados correctamente.
     ![odoo image](images/13.png)
+
+## Tarea
+
+![odoo image](images/tarea.png)
