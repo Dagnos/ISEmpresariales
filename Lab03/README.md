@@ -51,9 +51,12 @@
 
 1. Primero vamos a clientes y seleccionamos a **Importar**.
    ![odoo image](images/tarea1.png)
+
 2. Una vez dentro cargamos el fichero donde tengamos los datos a importar.
    ![odoo image](images/tarea2.png)
+
 3. Una vez seleccionado nos carga los datos que se van a importar y le damos a importar.
    ![odoo image](images/tarea3.png)
+
 4. Luego podemos ver que la importación fue correcta.
    ![odoo image](images/tarea4.png)
